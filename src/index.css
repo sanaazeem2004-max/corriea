@@ -1,0 +1,118 @@
+@import 'tailwindcss';
+
+/* ------------------------------------------------------------------
+   Design tokens
+   ------------------------------------------------------------------ */
+@theme {
+  --color-ink: #101516;        /* charcoal */
+  --color-ink-2: #171e20;      /* raised charcoal */
+  --color-umber: #453d35;      /* dark warm brown */
+  --color-mist: #d0d4d5;       /* soft grey */
+  --color-stone: #a3a4a1;      /* muted grey */
+  --color-copper: #a8683f;
+  --color-copper-deep: #8a522d; /* copper for small text on light (AA) */
+  --color-bronze: #ba8d6e;
+  --color-slate: #79858f;
+  --color-paper: #f4f2ee;      /* warm light background */
+  --color-paper-2: #eae7e1;
+
+  --font-serif: 'Cormorant Garamond', 'Times New Roman', serif;
+  --font-sans: 'Manrope', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* ------------------------------------------------------------------
+   Base
+   ------------------------------------------------------------------ */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 88px;
+    -webkit-text-size-adjust: 100%;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+  }
+  body {
+    @apply bg-paper font-sans text-ink antialiased;
+    overflow-x: clip;
+  }
+  ::selection {
+    background: var(--color-bronze);
+    color: var(--color-ink);
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-bronze);
+    outline-offset: 3px;
+  }
+  img { display: block; max-width: 100%; }
+}
+
+/* ------------------------------------------------------------------
+   Shared layout system — every section uses .container-x
+   ------------------------------------------------------------------ */
+@utility container-x {
+  width: calc(100% - 40px);
+  max-width: 1680px;
+  margin-inline: auto;
+  @media (width >= 768px) {
+    width: calc(100% - 80px);
+  }
+  @media (width >= 1024px) {
+    width: calc(100% - 128px);
+  }
+}
+
+/* Vertical rhythm shared by every section */
+@utility section-y {
+  padding-block: 88px;
+  @media (width >= 768px) { padding-block: 112px; }
+  @media (width >= 1024px) { padding-block: 136px; }
+}
+
+/* Small uppercase label above headings */
+@utility eyebrow {
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+}
+
+/* Display heading scale */
+@utility display-xl {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  line-height: 0.9;
+  letter-spacing: -0.015em;
+  font-size: clamp(2.75rem, 7.2vw, 6.25rem);
+}
+@utility display-lg {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  line-height: 1.02;
+  letter-spacing: -0.01em;
+  font-size: clamp(2.375rem, 4.8vw, 4.25rem);
+}
+@utility display-md {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  line-height: 1.1;
+  font-size: clamp(1.625rem, 2.4vw, 2rem);
+}
+
+/* Subtle film grain used on dark sections */
+@utility grain {
+  position: relative;
+  isolation: isolate;
+  &::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    opacity: 0.06;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+}

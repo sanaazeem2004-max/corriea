@@ -1,0 +1,747 @@
+{
+  "base": "http://localhost:5180/",
+  "viewports": {
+    "390": {
+      "vw": 390,
+      "overflowX": 0,
+      "offenders": [],
+      "containers": [
+        20
+      ],
+      "headings": [
+        {
+          "text": "Guidance That Moves You Forward.",
+          "left": 20
+        },
+        {
+          "text": "Counsel for the moments that matter most",
+          "left": 20
+        },
+        {
+          "text": "A thoughtful approach to every matter.",
+          "left": 20
+        },
+        {
+          "text": "Deja Correia",
+          "left": 20
+        },
+        {
+          "text": "Let’s Find the Right Path Forward.",
+          "left": 20
+        }
+      ],
+      "imgs": [
+        {
+          "src": "hero-library.jpg",
+          "ok": true
+        },
+        {
+          "src": "about-meeting.jpg",
+          "ok": true
+        },
+        {
+          "src": "pa-psychedelic.jpg",
+          "ok": true
+        },
+        {
+          "src": "pa-estate.jpg",
+          "ok": true
+        },
+        {
+          "src": "pa-business.jpg",
+          "ok": true
+        },
+        {
+          "src": "pa-realestate.jpg",
+          "ok": true
+        },
+        {
+          "src": "pa-elder.jpg",
+          "ok": true
+        },
+        {
+          "src": "pa-general.jpg",
+          "ok": true
+        },
+        {
+          "src": "justice.jpg",
+          "ok": true
+        },
+        {
+          "src": "deja-correia.jpg",
+          "ok": true
+        },
+        {
+          "src": "office.jpg",
+          "ok": true
+        },
+        {
+          "src": "cf-logo.png",
+          "ok": true
+        }
+      ],
+      "sections": [
+        {
+          "id": "home",
+          "top": 0,
+          "height": 844
+        },
+        {
+          "id": "about",
+          "top": 844,
+          "height": 1917
+        },
+        {
+          "id": "practice-areas",
+          "top": 2761,
+          "height": 3530
+        },
+        {
+          "id": "section",
+          "top": 6291,
+          "height": 1765
+        },
+        {
+          "id": "attorney",
+          "top": 8056,
+          "height": 1826
+        },
+        {
+          "id": "contact",
+          "top": 9882,
+          "height": 1935
+        },
+        {
+          "id": "footer",
+          "top": 11817,
+          "height": 2601
+        }
+      ],
+      "gaps": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "cards": [
+        {
+          "w": 350,
+          "h": 494,
+          "top": 3233
+        },
+        {
+          "w": 350,
+          "h": 445,
+          "top": 3751
+        },
+        {
+          "w": 350,
+          "h": 498,
+          "top": 4220
+        },
+        {
+          "w": 350,
+          "h": 498,
+          "top": 4742
+        },
+        {
+          "w": 350,
+          "h": 469,
+          "top": 5264
+        },
+        {
+          "w": 350,
+          "h": 445,
+          "top": 5758
+        }
+      ],
+      "smallTargets": [
+        "Skip to content",
+        "subscribe here"
+      ],
+      "h1": [
+        "Legal Expertise.Business Instinct.Committed Counsel."
+      ],
+      "height": 14418,
+      "errors": []
+    },
+    "768": {
+      "vw": 768,
+      "overflowX": 0,
+      "offenders": [],
+      "containers": [
+        40
+      ],
+      "headings": [
+        {
+          "text": "Guidance That Moves You Forward.",
+          "left": 40
+        },
+        {
+          "text": "Counsel for the moments that matter most",
+          "left": 40
+        },
+        {
+          "text": "A thoughtful approach to every matter.",
+          "left": 40
+        },
+        {
+          "text": "Deja Correia",
+          "left": 40
+        },
+        {
+          "text": "Let’s Find the Right Path Forward.",
+          "left": 40
+        }
+      ],
+      "imgs": [
+        {
+          "src": "hero-library.jpg",
+          "ok": true
+        },
+        {
+          "src": "about-meeting.jpg",
+          "ok": true
+        },
+        {
+          "src": "pa-psychedelic.jpg",
+          "ok": true
+        },
+        {
+          "src": "pa-estate.jpg",
+          "ok": true
+        },
+        {
+          "src": "pa-business.jpg",
+          "ok": true
+        },
+        {
+          "src": "pa-realestate.jpg",
+          "ok": true
+        },
+        {
+          "src": "pa-elder.jpg",
+          "ok": true
+        },
+        {
+          "src": "pa-general.jpg",
+          "ok": true
+        },
+        {
+          "src": "justice.jpg",
+          "ok": true
+        },
+        {
+          "src": "deja-correia.jpg",
+          "ok": true
+        },
+        {
+          "src": "office.jpg",
+          "ok": true
+        },
+        {
+          "src": "cf-logo.png",
+          "ok": true
+        }
+      ],
+      "sections": [
+        {
+          "id": "home",
+          "top": 0,
+          "height": 900
+        },
+        {
+          "id": "about",
+          "top": 900,
+          "height": 1522
+        },
+        {
+          "id": "practice-areas",
+          "top": 2422,
+          "height": 2024
+        },
+        {
+          "id": "section",
+          "top": 4446,
+          "height": 1409
+        },
+        {
+          "id": "attorney",
+          "top": 5855,
+          "height": 1909
+        },
+        {
+          "id": "contact",
+          "top": 7764,
+          "height": 1623
+        },
+        {
+          "id": "footer",
+          "top": 9387,
+          "height": 1828
+        }
+      ],
+      "gaps": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "cards": [
+        {
+          "w": 332,
+          "h": 539,
+          "top": 2786
+        },
+        {
+          "w": 332,
+          "h": 539,
+          "top": 2786
+        },
+        {
+          "w": 332,
+          "h": 495,
+          "top": 3349
+        },
+        {
+          "w": 332,
+          "h": 495,
+          "top": 3349
+        },
+        {
+          "w": 332,
+          "h": 466,
+          "top": 3868
+        },
+        {
+          "w": 332,
+          "h": 466,
+          "top": 3868
+        }
+      ],
+      "smallTargets": [
+        "Skip to content",
+        "subscribe here"
+      ],
+      "h1": [
+        "Legal Expertise.Business Instinct.Committed Counsel."
+      ],
+      "height": 11215,
+      "errors": []
+    },
+    "1280": {
+      "vw": 1280,
+      "overflowX": 0,
+      "offenders": [],
+      "containers": [
+        64
+      ],
+      "headings": [
+        {
+          "text": "Guidance That Moves You Forward.",
+          "left": 64
+        },
+        {
+          "text": "Counsel for the moments that matter most",
+          "left": 64
+        },
+        {
+          "text": "A thoughtful approach to every matter.",
+          "left": 64
+        },
+        {
+          "text": "Deja Correia",
+          "left": 571
+        },
+        {
+          "text": "Let’s Find the Right Path Forward.",
+          "left": 64
+        }
+      ],
+      "imgs": [
+        {
+          "src": "hero-library.jpg",
+          "ok": true
+        },
+        {
+          "src": "about-meeting.jpg",
+          "ok": true
+        },
+        {
+          "src": "pa-psychedelic.jpg",
+          "ok": true
+        },
+        {
+          "src": "pa-estate.jpg",
+          "ok": true
+        },
+        {
+          "src": "pa-business.jpg",
+          "ok": true
+        },
+        {
+          "src": "pa-realestate.jpg",
+          "ok": true
+        },
+        {
+          "src": "pa-elder.jpg",
+          "ok": true
+        },
+        {
+          "src": "pa-general.jpg",
+          "ok": true
+        },
+        {
+          "src": "justice.jpg",
+          "ok": true
+        },
+        {
+          "src": "deja-correia.jpg",
+          "ok": true
+        },
+        {
+          "src": "office.jpg",
+          "ok": true
+        },
+        {
+          "src": "cf-logo.png",
+          "ok": true
+        }
+      ],
+      "sections": [
+        {
+          "id": "home",
+          "top": 0,
+          "height": 800
+        },
+        {
+          "id": "about",
+          "top": 800,
+          "height": 1040
+        },
+        {
+          "id": "practice-areas",
+          "top": 1840,
+          "height": 1647
+        },
+        {
+          "id": "section",
+          "top": 3487,
+          "height": 1111
+        },
+        {
+          "id": "attorney",
+          "top": 4598,
+          "height": 1027
+        },
+        {
+          "id": "contact",
+          "top": 5624,
+          "height": 1114
+        },
+        {
+          "id": "footer",
+          "top": 6739,
+          "height": 1205
+        }
+      ],
+      "gaps": [
+        0,
+        0,
+        0,
+        0,
+        -1,
+        1
+      ],
+      "cards": [
+        {
+          "w": 363,
+          "h": 524,
+          "top": 2270
+        },
+        {
+          "w": 363,
+          "h": 524,
+          "top": 2270
+        },
+        {
+          "w": 363,
+          "h": 524,
+          "top": 2270
+        },
+        {
+          "w": 363,
+          "h": 524,
+          "top": 2827
+        },
+        {
+          "w": 363,
+          "h": 524,
+          "top": 2827
+        },
+        {
+          "w": 363,
+          "h": 524,
+          "top": 2827
+        }
+      ],
+      "smallTargets": [
+        "Skip to content",
+        "Client Login (opens in a new t",
+        "subscribe here"
+      ],
+      "h1": [
+        "Legal Expertise.Business Instinct.Committed Counsel."
+      ],
+      "height": 7944,
+      "errors": []
+    },
+    "1440": {
+      "vw": 1440,
+      "overflowX": 0,
+      "offenders": [],
+      "containers": [
+        64
+      ],
+      "headings": [
+        {
+          "text": "Guidance That Moves You Forward.",
+          "left": 64
+        },
+        {
+          "text": "Counsel for the moments that matter most",
+          "left": 64
+        },
+        {
+          "text": "A thoughtful approach to every matter.",
+          "left": 64
+        },
+        {
+          "text": "Deja Correia",
+          "left": 637
+        },
+        {
+          "text": "Let’s Find the Right Path Forward.",
+          "left": 64
+        }
+      ],
+      "imgs": [
+        {
+          "src": "hero-library.jpg",
+          "ok": true
+        },
+        {
+          "src": "about-meeting.jpg",
+          "ok": true
+        },
+        {
+          "src": "pa-psychedelic.jpg",
+          "ok": true
+        },
+        {
+          "src": "pa-estate.jpg",
+          "ok": true
+        },
+        {
+          "src": "pa-business.jpg",
+          "ok": true
+        },
+        {
+          "src": "pa-realestate.jpg",
+          "ok": true
+        },
+        {
+          "src": "pa-elder.jpg",
+          "ok": true
+        },
+        {
+          "src": "pa-general.jpg",
+          "ok": true
+        },
+        {
+          "src": "justice.jpg",
+          "ok": true
+        },
+        {
+          "src": "deja-correia.jpg",
+          "ok": true
+        },
+        {
+          "src": "office.jpg",
+          "ok": true
+        },
+        {
+          "src": "cf-logo.png",
+          "ok": true
+        }
+      ],
+      "sections": [
+        {
+          "id": "home",
+          "top": 0,
+          "height": 900
+        },
+        {
+          "id": "about",
+          "top": 900,
+          "height": 1052
+        },
+        {
+          "id": "practice-areas",
+          "top": 1952,
+          "height": 1704
+        },
+        {
+          "id": "section",
+          "top": 3656,
+          "height": 1106
+        },
+        {
+          "id": "attorney",
+          "top": 4762,
+          "height": 1006
+        },
+        {
+          "id": "contact",
+          "top": 5768,
+          "height": 1107
+        },
+        {
+          "id": "footer",
+          "top": 6875,
+          "height": 1148
+        }
+      ],
+      "gaps": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "cards": [
+        {
+          "w": 416,
+          "h": 550,
+          "top": 2402
+        },
+        {
+          "w": 416,
+          "h": 550,
+          "top": 2402
+        },
+        {
+          "w": 416,
+          "h": 550,
+          "top": 2402
+        },
+        {
+          "w": 416,
+          "h": 536,
+          "top": 2984
+        },
+        {
+          "w": 416,
+          "h": 536,
+          "top": 2984
+        },
+        {
+          "w": 416,
+          "h": 536,
+          "top": 2984
+        }
+      ],
+      "smallTargets": [
+        "Skip to content",
+        "Client Login (opens in a new t"
+      ],
+      "h1": [
+        "Legal Expertise.Business Instinct.Committed Counsel."
+      ],
+      "height": 8022,
+      "errors": []
+    }
+  },
+  "interactions": {
+    "cookie": {
+      "toggles": 3,
+      "stored": "{\"necessary\":true,\"analytics\":false,\"marketing\":false,\"at\":1794913225051}"
+    },
+    "nav:About": {
+      "top": 88,
+      "current": "true"
+    },
+    "nav:Practice Areas": {
+      "top": 88,
+      "current": "true"
+    },
+    "nav:Our Attorney": {
+      "top": 88,
+      "current": "true"
+    },
+    "nav:Contact": {
+      "top": 88,
+      "current": "true"
+    },
+    "drawer": {
+      "hasServices": true,
+      "focusInDrawer": true
+    },
+    "form": {
+      "validationAlerts": 4,
+      "mailto": "mailto:info@correia.law?subject=Website%20enquiry%20%E2%80%94%20Estate%20Planning%20and%20Probate&body=Name%3A%20Test%20"
+    },
+    "bookLinks": [
+      "https://thecorreialawfirm.cliogrow.com/book"
+    ],
+    "mobileMenu": {
+      "menuGone": true,
+      "top": 88,
+      "overflow": ""
+    }
+  },
+  "links": {
+    "#main": "anchor",
+    "#home": "anchor",
+    "#about": "anchor",
+    "#practice-areas": "anchor",
+    "#attorney": "anchor",
+    "#contact": "anchor",
+    "https://clients.clio.com/": 200,
+    "https://thecorreialawfirm.cliogrow.com/book": 200,
+    "tel:+16192511432": "ok (protocol)",
+    "https://maps.google.com/?q=4150%20Voltaire%20Street%20San%20Diego,%20CA%2092107": 200,
+    "https://www.enlightenedequire.com/": 200,
+    "https://www.linkedin.com/in/dejacorreia": 200,
+    "mailto:info@correia.law": "ok (protocol)",
+    "https://thecorreialawfirm.cliogrow.com/intake/78a22793f51fcedc1e0f7938f3575ff5": 200,
+    "https://www.instagram.com/correialawfirm/": 200,
+    "https://thecorreialawfirm.com/privacy-policy": 200,
+    "https://thecorreialawfirm.com/terms-and-conditions": 200
+  },
+  "allLinks": [
+    "#main",
+    "#home",
+    "#about",
+    "#practice-areas",
+    "#attorney",
+    "#contact",
+    "https://clients.clio.com/",
+    "https://thecorreialawfirm.cliogrow.com/book",
+    "tel:+16192511432",
+    "https://maps.google.com/?q=4150%20Voltaire%20Street%20San%20Diego,%20CA%2092107",
+    "https://www.enlightenedequire.com/",
+    "https://www.linkedin.com/in/dejacorreia",
+    "mailto:info@correia.law",
+    "https://thecorreialawfirm.cliogrow.com/intake/78a22793f51fcedc1e0f7938f3575ff5",
+    "https://www.instagram.com/correialawfirm/",
+    "https://thecorreialawfirm.com/privacy-policy",
+    "https://thecorreialawfirm.com/terms-and-conditions"
+  ],
+  "failures": []
+}
